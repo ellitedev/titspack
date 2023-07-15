@@ -3,6 +3,6 @@ filename = "OptiFine_1.19.3_HD_U_I3.jar"
 side = "client"
 
 [download]
-url = "https://ellitedev.github.io/titspack/self-host/OptiFine_1.19.3_HD_U_I3.jar"
+url = "https://srb2kmods.ellite.dev/TitsPack/OptiFine_1.19.3_HD_U_I3.jar"
 hash-format = "sha256"
 hash = "3b9284e43a26c263fce4f40aa8742682a9575ead5f87aa355e0633a545e0af97"

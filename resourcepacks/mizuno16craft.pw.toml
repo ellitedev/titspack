@@ -3,6 +3,6 @@ filename = "Mizunos_16_Craft_JE_1.19.4-1.1.zip"
 side = "client"
 
 [download]
-url = "https://ellitedev.github.io/titspack/self-host/Mizunos_16_Craft_JE_1.19.4-1.1.zip"
+url = "https://srb2kmods.ellite.dev/TitsPack/Mizunos_16_Craft_JE_1.19.4-1.1.zip"
 hash-format = "sha256"
 hash = "73057854a89476c169ac99c76b49252414e17839cdb69b5dbbcbf5da61bf197b"
