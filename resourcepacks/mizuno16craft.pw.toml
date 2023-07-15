@@ -1,11 +1,8 @@
 name = "Mizuno's 16 Craft"
-filename = "Mizunos 16 Craft JE_1.19.4-1.1.zip"
+filename = "Mizunos_16_Craft_JE_1.19.4-1.1.zip"
 side = "client"
 
 [download]
-url = "https://files.ellite.dev/!Ss8b8U9KV6/Mizunos%2016%20Craft%20JE_1.19.4-1.1.zip"
-
-# A number of tools can generate the hash for you, including 7-zip and sha256sum
-# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+url = "https://ellitedev.github.io/titspack/self-host/Mizunos_16_Craft_JE_1.19.4-1.1.zip"
 hash-format = "sha256"
 hash = "73057854a89476c169ac99c76b49252414e17839cdb69b5dbbcbf5da61bf197b"
