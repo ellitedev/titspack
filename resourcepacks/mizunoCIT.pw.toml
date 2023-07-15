@@ -1,0 +1,11 @@
+name = "Mizuno's 16 Craft CIT"
+filename = "Mizunos 16 Craft JE CIT_1.19-1.0.zip"
+side = "client"
+
+[download]
+url = "https://files.ellite.dev/!RQATHQxQ98/Mizunos%2016%20Craft%20JE%20CIT_1.19-1.0.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "50f4b54f7bd52bf981b61f913c7ad8a77bcd9996d149f4b22604ffcd29793aa0"

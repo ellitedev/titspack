@@ -1,0 +1,11 @@
+name = "Transparent Item Frames"
+filename = "Invisible Item Frame Pack_1.19-1.0.zip"
+side = "client"
+
+[download]
+url = "https://files.ellite.dev/!PwaypZ2hKf/Invisible%20Item%20Frame%20Pack_1.19-1.0.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f61e384ad818f6aa51369b07ab1b63af2522aa60c2a9cac511028fa5098b2523"

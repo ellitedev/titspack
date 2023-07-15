@@ -1,0 +1,13 @@
+name = "XercaMod"
+filename = "xercamod-1.19.3-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a0ab0d7c6a0062a55ecbe617de2224695ce5623"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4318584
+project-id = 341575

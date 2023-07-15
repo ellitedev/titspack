@@ -1,0 +1,231 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "df561449e65e4b65767d3c2788ea492b176ede0dd922aacd3e974651212a1f63"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "d445f61b70c8799cb3a699dc42786de4ca8d54952d49f46227dd3530a69b6bd3"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "737d7767b4e9e28e3e60805e3f980120b005803c93837e484d935f6156199893"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "c1ce2894a16a5b9e2f9b30c704ace4a94585dd66c0eddeb44c8117d60df6d9f1"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "2389fb30d6a2735afca632739fcabb6ac0a50a0b98e3148cbff9fc9bc3b1d949"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "bb74b96d3e633f65ad9711003ed21cb28acee0bdb2b5fd598711ed8c28b43a43"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "d4d066e25700ec567e21e89cfcdae759a51dc2dd76eead4d514efd1ce34d4986"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1d5470c3dc86034f5653d870497d27404b55a5d8a50b58a3f431cb8fae455d21"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "66f9bdecc5af7a58b5209d6c00de8f2319236612ef66ce5363f3950ceed60e70"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "f38da0367e3e865f223b208be8e4153e452806be0613dc0e5b2657aea65dbc94"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "778ed8ede80bfdc5eb0604b161a19d1d0d58a6eb3cc953f6aeaf03553e56b2e3"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "a25fe773e11f19a8ca1296c3955048b444ad2d4cf85706f2cf77d07b09ccb5e2"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d188021568b1781635bc70f884400336730660c72cf96864f8bcf1c7fb0449b0"
+metafile = true
+
+[[files]]
+file = "mods/dusty-decorations.pw.toml"
+hash = "6df8ae384129da1f297fe09e27e102533705458ba76994c483caa0edbcd57065"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "ed18d89fe8606ba13fbb9a248f63e48ecdad210fe2a77f504926208b3c710136"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "0df61a11c15f338ebbe21cc855e3c7ebb6579b88dc8f33f80e33e71448dbbfb9"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "2418396d4ca91c84161692225f9f442eaf80edbc309e2043e3782af94a8f489a"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "744d1a907f7339ed60204af517bd0a21c36db1a32f5664f3d9cb4590465a2dd5"
+metafile = true
+
+[[files]]
+file = "mods/female-gender.pw.toml"
+hash = "02c2972d7d1abb11c0c75db036b83f694185bb587c7594256692e1d943cdcc61"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "b5eb6bcf637994381c241a5a0400e7bcae12954ec75b0372cd7e6b2bbf7a735b"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "f579b96ce913bf036368da3daee4bd0a60ea43b1923199f3a8a2b9a485664312"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "6d6404e2f4b91ba17b6907c8bb240e104283493759f0e57cac6e75846c0bcefe"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "9116ead38df9119fa9d8103c214482aedab1505554865cac1b3bd385019076bd"
+metafile = true
+
+[[files]]
+file = "mods/mavapi.pw.toml"
+hash = "0b943b01b46ded135e7da93be7921b79aa4447c63d130d56a34f1e550f999954"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
+hash = "be804b2781100a3721d53691d696c0f64529a7bf6185be47076a247a84797192"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "f6d5301a91ed04dd358a5319ae51fb6f3b806616f56023fd2ff05f0528227b90"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "4d9139243fa7df7676f91ac5293024e71647259103b911b2583e25fb7acb7a30"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "70646a648e7596bde51878f2711685090c3480fa21fa5abb62d8958a4e6e38b7"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "93b83330525e2a5dc55233eb7997593182fce31f78f9f64a668745cbc6dac6d1"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "8b5017614e890b3eb32618fc379926e4d6938082a9f0dac4a7a87ca9444d1ee8"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "5c363cb341a1bc981ba781352c9e6e4573d367c465d972fc0a4d448da956b8cc"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "ee4cf33d418e73df5e778534b547917167a0541f1c65d3bdc5e2c58d6280504d"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5f298a4c1aa9f8393357ddefa968e270aa731a6176a0294213008afd0dd34f1b"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "231d825033099016a241ae4285d261cf70a409c805e5b662e90c7a9b640ee905"
+metafile = true
+
+[[files]]
+file = "mods/server-tab-info.pw.toml"
+hash = "cd9d3944ee0f3d2a12ddb3e7f67cc73c1642d5620a34b9c305c1a974068c56ce"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "9cd59e1bedfda6f48d79c55aa98db675e766d92f4b795d5ed37ed92155d60201"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "b93993a54c2ce2465446f58dc4b91caec4e5d9a1ade03c56f3eedddbb89879b2"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "1023296832cad093854513f04b0f71849ccdc433657b49d8924fae4fb10d9d50"
+metafile = true
+
+[[files]]
+file = "mods/xercamod.pw.toml"
+hash = "d95e28e47cf92be29fae568c849f3b497efccda99fdb9f77e8c03b19943ec710"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ender-dragon-revamp.pw.toml"
+hash = "940fef9865b0ae516ab989f93f5c41c37dafca1a15ea1eaf476244495e310ca9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizuno16craft.pw.toml"
+hash = "c5c2458442f396fdd256465dc527e24c80fb0e4daf584156dd2722d4febfc062"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunoCIT.pw.toml"
+hash = "661f3e624fbe63f3fdb1deca9087c5057ba0107b36a01c896f2f6700402077ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/trans-item.pw.toml"
+hash = "131d526c67bbadc93a826ae1552f0e13ae190d1188212633a5870057f15d2910"
+metafile = true
+
+[[files]]
+file = "resourcepacks/transparent-gui-ultimate.pw.toml"
+hash = "eb086119080a4bdb7721a457551521c76872ca37f78b3a123b49effb45c580ef"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-bushy-leaves.pw.toml"
+hash = "94ffaf3d20045760d168ea7c8535097eabb81eedc4833b6a15a9b0fdc2378593"
+metafile = true

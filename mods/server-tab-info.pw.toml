@@ -1,0 +1,13 @@
+name = " Server Tab Info"
+filename = "ServerTabInfo-1.19.3-1.3.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VZptDEBF/versions/N0Xh0bpF/ServerTabInfo-1.19.3-1.3.8.jar"
+hash-format = "sha1"
+hash = "aa5d5e5366ecd6dabe816c3dfbd5178a5669755a"
+
+[update]
+[update.modrinth]
+mod-id = "VZptDEBF"
+version = "N0Xh0bpF"

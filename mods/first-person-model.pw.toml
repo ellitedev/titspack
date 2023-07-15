@@ -1,0 +1,13 @@
+name = "First-person Model"
+filename = "firstperson-forge-2.2.3-mc1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/cXZJUecK/firstperson-forge-2.2.3-mc1.19.3.jar"
+hash-format = "sha1"
+hash = "21f6300ff1d9cc606ff32a8917d8471f2f729cc6"
+
+[update]
+[update.modrinth]
+mod-id = "H5XMjpHi"
+version = "cXZJUecK"
