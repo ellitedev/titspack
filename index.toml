@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.pw.toml"
-hash = "93b83330525e2a5dc55233eb7997593182fce31f78f9f64a668745cbc6dac6d1"
+hash = "9fc9e591d86ad13b950ebd74ea55bffd859d4444e7c120497d132ca86939856a"
 metafile = true
 
 [[files]]
@@ -207,17 +207,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mizuno16craft.pw.toml"
-hash = "c5c2458442f396fdd256465dc527e24c80fb0e4daf584156dd2722d4febfc062"
+hash = "f563ae5b58185a4252ddac6c35746cd9e8f5bbb2e588ca8b75287611a60941f2"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mizunoCIT.pw.toml"
-hash = "661f3e624fbe63f3fdb1deca9087c5057ba0107b36a01c896f2f6700402077ab"
+hash = "284cd668c36c693476398a97ed913dba7e2ff145c8c3adebf1dff0e7c880cfa3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/trans-item.pw.toml"
-hash = "131d526c67bbadc93a826ae1552f0e13ae190d1188212633a5870057f15d2910"
+hash = "3fbd567565422184d1ddbc17979dbe3b8b3659a89544fba6801ea11b556763bd"
 metafile = true
 
 [[files]]
@@ -229,3 +229,19 @@ metafile = true
 file = "resourcepacks/xalis-bushy-leaves.pw.toml"
 hash = "94ffaf3d20045760d168ea7c8535097eabb81eedc4833b6a15a9b0fdc2378593"
 metafile = true
+
+[[files]]
+file = "self-host/Invisible_Item_Frame_Pack_1.19-1.0.zip"
+hash = "f61e384ad818f6aa51369b07ab1b63af2522aa60c2a9cac511028fa5098b2523"
+
+[[files]]
+file = "self-host/Mizunos_16_Craft_JE_1.19.4-1.1.zip"
+hash = "73057854a89476c169ac99c76b49252414e17839cdb69b5dbbcbf5da61bf197b"
+
+[[files]]
+file = "self-host/Mizunos_16_Craft_JE_CIT_1.19-1.0.zip"
+hash = "50f4b54f7bd52bf981b61f913c7ad8a77bcd9996d149f4b22604ffcd29793aa0"
+
+[[files]]
+file = "self-host/OptiFine_1.19.3_HD_U_I3.jar"
+hash = "3b9284e43a26c263fce4f40aa8742682a9575ead5f87aa355e0633a545e0af97"
