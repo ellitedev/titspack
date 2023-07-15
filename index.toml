@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.pw.toml"
-hash = "53381ba9222bc20989b921d3fc0432f390fd0b4c1724c01b88bfd227e66c762e"
+hash = "9fc9e591d86ad13b950ebd74ea55bffd859d4444e7c120497d132ca86939856a"
 metafile = true
 
 [[files]]
@@ -207,17 +207,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mizuno16craft.pw.toml"
-hash = "58e6d5ef6e31b292475512e566d638ad050475ade8af53e32a096036b13f5934"
+hash = "f563ae5b58185a4252ddac6c35746cd9e8f5bbb2e588ca8b75287611a60941f2"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mizunoCIT.pw.toml"
-hash = "b718050e980c6fa4278996c4c8f2a63c4d6b33a80b55792bb26842a687930830"
+hash = "284cd668c36c693476398a97ed913dba7e2ff145c8c3adebf1dff0e7c880cfa3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/trans-item.pw.toml"
-hash = "79fc28d9e5410e4e3f95ef35d8fa15402affbebd10d475c9473fc579d3ee0433"
+hash = "3fbd567565422184d1ddbc17979dbe3b8b3659a89544fba6801ea11b556763bd"
 metafile = true
 
 [[files]]
