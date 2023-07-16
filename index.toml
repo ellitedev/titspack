@@ -111,6 +111,11 @@ hash = "6d6404e2f4b91ba17b6907c8bb240e104283493759f0e57cac6e75846c0bcefe"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "41834db762956fdfb6225bb96ae4723979180343b680233451de9b811bd06f21"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "9116ead38df9119fa9d8103c214482aedab1505554865cac1b3bd385019076bd"
 metafile = true
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "4d9139243fa7df7676f91ac5293024e71647259103b911b2583e25fb7acb7a30"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "8c1ecf8820bfe3059f9fe3a75b6f7a5f5dc785d57386ef03bbd8ef2c48bab0f7"
 metafile = true
 
 [[files]]
