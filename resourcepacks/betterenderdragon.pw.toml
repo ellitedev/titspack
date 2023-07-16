@@ -1,0 +1,8 @@
+name = "BetterEnderDragon"
+filename = "Better_Enderdragon.zip"
+side = "client"
+
+[download]
+url = "https://ellitedev.github.io/titspack/self-host/Better_Enderdragon.zip"
+hash-format = "sha256"
+hash = "979e5fac0d0cf2ba1f5397a45e742e5d1f5ed9c73f80799fcca4a7e1bc38c868"
