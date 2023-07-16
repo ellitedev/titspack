@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ender-dragon-revamp.pw.toml"
-hash = "940fef9865b0ae516ab989f93f5c41c37dafca1a15ea1eaf476244495e310ca9"
+hash = "860d32468204b11e5896803a4fb5ca4e5a5bf3309bf6162d6178270cbfbe7178"
 metafile = true
 
 [[files]]
@@ -222,12 +222,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/transparent-gui-ultimate.pw.toml"
-hash = "eb086119080a4bdb7721a457551521c76872ca37f78b3a123b49effb45c580ef"
+hash = "12c5645d118c61c097089853ca87d4737c3f9e2733d94a02344bff1086f65ba5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-bushy-leaves.pw.toml"
-hash = "94ffaf3d20045760d168ea7c8535097eabb81eedc4833b6a15a9b0fdc2378593"
+hash = "f5516eb0a0f54421d794844d4d15ff9abf07455157b6436878cf0fecc5e5b078"
 metafile = true
 
 [[files]]

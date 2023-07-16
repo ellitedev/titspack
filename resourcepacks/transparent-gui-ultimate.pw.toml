@@ -1,6 +1,6 @@
 name = "Transparent GUI and HUD Ultimate"
 filename = "Transparent+GUI-1.19.X-R1.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
