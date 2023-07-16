@@ -201,8 +201,8 @@ hash = "d95e28e47cf92be29fae568c849f3b497efccda99fdb9f77e8c03b19943ec710"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ender-dragon-revamp.pw.toml"
-hash = "860d32468204b11e5896803a4fb5ca4e5a5bf3309bf6162d6178270cbfbe7178"
+file = "resourcepacks/betterenderdragon.pw.toml"
+hash = "d14230d84e6d4d2a5097dfe737cc2e48176971bdad9a1b04719717e695260c05"
 metafile = true
 
 [[files]]
@@ -221,8 +221,8 @@ hash = "3fbd567565422184d1ddbc17979dbe3b8b3659a89544fba6801ea11b556763bd"
 metafile = true
 
 [[files]]
-file = "resourcepacks/transparent-gui-ultimate.pw.toml"
-hash = "12c5645d118c61c097089853ca87d4737c3f9e2733d94a02344bff1086f65ba5"
+file = "resourcepacks/transgui.pw.toml"
+hash = "7e6cbda6a8902a9800d888e1ae6911ea9ba6f5ceb99a5664de8f1b133e71f8d9"
 metafile = true
 
 [[files]]

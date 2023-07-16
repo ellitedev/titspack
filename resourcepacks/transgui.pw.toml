@@ -1,0 +1,8 @@
+name = "TransGUI"
+filename = "Transparent+GUI-1.19.X-R1.1.zip"
+side = "client"
+
+[download]
+url = "https://ellitedev.github.io/titspack/self-host/Transparent+GUI-1.19.X-R1.1.zip"
+hash-format = "sha256"
+hash = "a97f60d2f195b1e60bc54ebb5ec80f953633759db1162273355bd561786d384b"
