@@ -229,19 +229,3 @@ metafile = true
 file = "resourcepacks/xalis-bushy-leaves.pw.toml"
 hash = "f5516eb0a0f54421d794844d4d15ff9abf07455157b6436878cf0fecc5e5b078"
 metafile = true
-
-[[files]]
-file = "self-host/Invisible_Item_Frame_Pack_1.19-1.0.zip"
-hash = "f61e384ad818f6aa51369b07ab1b63af2522aa60c2a9cac511028fa5098b2523"
-
-[[files]]
-file = "self-host/Mizunos_16_Craft_JE_1.19.4-1.1.zip"
-hash = "73057854a89476c169ac99c76b49252414e17839cdb69b5dbbcbf5da61bf197b"
-
-[[files]]
-file = "self-host/Mizunos_16_Craft_JE_CIT_1.19-1.0.zip"
-hash = "50f4b54f7bd52bf981b61f913c7ad8a77bcd9996d149f4b22604ffcd29793aa0"
-
-[[files]]
-file = "self-host/OptiFine_1.19.3_HD_U_I3.jar"
-hash = "3b9284e43a26c263fce4f40aa8742682a9575ead5f87aa355e0633a545e0af97"
