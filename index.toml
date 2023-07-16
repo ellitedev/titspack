@@ -81,6 +81,11 @@ hash = "0df61a11c15f338ebbe21cc855e3c7ebb6579b88dc8f33f80e33e71448dbbfb9"
 metafile = true
 
 [[files]]
+file = "mods/extended-slabs-plus.pw.toml"
+hash = "588c8f1ff0814435aed7160deb511cc27bb42ca425b4ca1d2aeaf1b7f6b45e5e"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "2418396d4ca91c84161692225f9f442eaf80edbc309e2043e3782af94a8f489a"
 metafile = true
