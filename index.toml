@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/dusty-decorations.pw.toml"
-hash = "6df8ae384129da1f297fe09e27e102533705458ba76994c483caa0edbcd57065"
+hash = "d0e144830a7ec5744a664ce3c11fc5fa93d0ec84607c96fe421a573734a17697"
 metafile = true
 
 [[files]]

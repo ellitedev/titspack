@@ -3,11 +3,6 @@ filename = "dustydecorations-1.0-1.19.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "760938717da02e9d595fc8fe7b79d414ca07ca24"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4462807
-project-id = 843344
+url = "https://ellitedev.github.io/titspack/self-host/dustydecorations-1.0-1.19.3.jar"
+hash-format = "sha256"
+hash = "3849e01232824632aafc99c9366ff1094455f043b16b1f4653358079ed771f94"
