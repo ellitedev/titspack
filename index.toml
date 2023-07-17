@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "5ae83d36401d89c90a5028c73d9ea36dc497622ec74494298d0a618fa1c1c9a4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "df561449e65e4b65767d3c2788ea492b176ede0dd922aacd3e974651212a1f63"
 metafile = true
@@ -274,10 +278,6 @@ metafile = true
 file = "mods/xercamod.pw.toml"
 hash = "d95e28e47cf92be29fae568c849f3b497efccda99fdb9f77e8c03b19943ec710"
 metafile = true
-
-[[files]]
-file = "prism-instance/TitsPack.zip"
-hash = "41f5713d82899fd0b0cb81bd29a5d93d9543560a6220bca8fab493a72c7213ae"
 
 [[files]]
 file = "resourcepacks/betterenderdragon.pw.toml"
