@@ -1,0 +1,13 @@
+name = "YoFPS"
+filename = "YoFPS+High+(Chocapic13+Edit).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xM96NJmk/versions/hOdwb79n/YoFPS%2BHigh%2B%28Chocapic13%2BEdit%29.zip"
+hash-format = "sha1"
+hash = "7ceeb9cd8df24b40cb9c55870128ff05c254683b"
+
+[update]
+[update.modrinth]
+mod-id = "xM96NJmk"
+version = "hOdwb79n"

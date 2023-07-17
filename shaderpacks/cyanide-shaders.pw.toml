@@ -1,0 +1,13 @@
+name = "Cyanide Shaders"
+filename = "CyanideShaders_v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dzx2zisP/versions/X5paKLYY/CyanideShaders_v1.1.zip"
+hash-format = "sha1"
+hash = "bfea939c9b23eb3fa1885e2f991bb05908295a27"
+
+[update]
+[update.modrinth]
+mod-id = "dzx2zisP"
+version = "X5paKLYY"

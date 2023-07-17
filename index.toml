@@ -41,6 +41,11 @@ hash = "1d5470c3dc86034f5653d870497d27404b55a5d8a50b58a3f431cb8fae455d21"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "5357e601c12045050cb73a6487661bc366168a527156c6d4adb94f345832939d"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "66f9bdecc5af7a58b5209d6c00de8f2319236612ef66ce5363f3950ceed60e70"
 metafile = true
@@ -156,8 +161,18 @@ hash = "8c1ecf8820bfe3059f9fe3a75b6f7a5f5dc785d57386ef03bbd8ef2c48bab0f7"
 metafile = true
 
 [[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "676389cc9198f0de73f1a0d5f7177478994753598ba04e9d5683718445fe6fa4"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "70646a648e7596bde51878f2711685090c3480fa21fa5abb62d8958a4e6e38b7"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "e94c51721ad10058f1cd57ee5b21825ead89c4968a4a9e23fa3a6dcd73213313"
 metafile = true
 
 [[files]]
@@ -176,6 +191,11 @@ hash = "5c363cb341a1bc981ba781352c9e6e4573d367c465d972fc0a4d448da956b8cc"
 metafile = true
 
 [[files]]
+file = "mods/radon.pw.toml"
+hash = "7bdf4e86620a8dcd88ad32d9e983412077cb2fb70ddffc99d9e1f5a2f2a94a1f"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "ee4cf33d418e73df5e778534b547917167a0541f1c65d3bdc5e2c58d6280504d"
 metafile = true
@@ -186,8 +206,18 @@ hash = "5f298a4c1aa9f8393357ddefa968e270aa731a6176a0294213008afd0dd34f1b"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "ed3cf341bd6649dc35bd2e4cacaabbcbb0b1f3cd21598f56eaa6583d9b7d496e"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "231d825033099016a241ae4285d261cf70a409c805e5b662e90c7a9b640ee905"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "d3ba3038eb1f3a5263927a3c8c1fc41b3639ec08c6056a2beeee75fe99162178"
 metafile = true
 
 [[files]]
@@ -243,4 +273,59 @@ metafile = true
 [[files]]
 file = "resourcepacks/xalis-bushy-leaves.pw.toml"
 hash = "f5516eb0a0f54421d794844d4d15ff9abf07455157b6436878cf0fecc5e5b078"
+metafile = true
+
+[[files]]
+file = "shaderpacks/builders-qol-shaders.pw.toml"
+hash = "73094c3517ba301eb3dea302e91d3cdfb88a5e7adb42f71ead5b582c2f344b8b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ce18d14782c7d414c416de2b2613369c23d39a85c252f81ed1073816d5587b44"
+metafile = true
+
+[[files]]
+file = "shaderpacks/cyanide-shaders.pw.toml"
+hash = "909d656bca0d5eb8c61f246b095b7ef799161c94ae44214adfbe1ee5e0ba4241"
+metafile = true
+
+[[files]]
+file = "shaderpacks/nostalgia-shader.pw.toml"
+hash = "5617b60662b2e1c8333e47c4f43a4185fe633c05e629c1ec06d1d539b22e654c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/shrimple.pw.toml"
+hash = "8ac2d1149c4f622902e258e2049e1c10e479c64a16112f44bcfb741b13ad25ea"
+metafile = true
+
+[[files]]
+file = "shaderpacks/simplicissimus.pw.toml"
+hash = "116618569cf2bcadd8e4b52bacb3d5ca0b123a92f7f5788e995bf4d1c7af5cb4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/stereos-default+.pw.toml"
+hash = "01973f190b3c66dba29d560cf465ed714fabc80110b21c9480bcffe5cceb7157"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "a5ed01e32d65dbd67e9573e1575874284a0e3c64aebbbbb872230d8be9fd0e8e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanilla-plus-shader.pw.toml"
+hash = "3a36b777e54f3f956490aabb87d9bb09d1b0bdab8877aa98959221f6e447e957"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanillaa.pw.toml"
+hash = "5def7fe470d25c729d7356c856984ab517e8cbcdf0b01eced72aa1dc95accb3b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/yofps.pw.toml"
+hash = "d254128cffe294633bc371c7e73d7c28a9588853942c2c42640a1d82ff341961"
 metafile = true
