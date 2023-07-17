@@ -276,6 +276,10 @@ hash = "d95e28e47cf92be29fae568c849f3b497efccda99fdb9f77e8c03b19943ec710"
 metafile = true
 
 [[files]]
+file = "prism-instance/TitsPack.zip"
+hash = "41f5713d82899fd0b0cb81bd29a5d93d9543560a6220bca8fab493a72c7213ae"
+
+[[files]]
 file = "resourcepacks/betterenderdragon.pw.toml"
 hash = "889254853e5e89074e19798b37aaf1b2a591ec61d79104ad00b3707a8b60f8b2"
 metafile = true
