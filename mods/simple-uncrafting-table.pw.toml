@@ -1,0 +1,13 @@
+name = "Simple Uncrafting Table"
+filename = "UncraftingTable-forge-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d0f1a75r/versions/JBg8f0Yi/UncraftingTable-forge-1.2.6.jar"
+hash-format = "sha1"
+hash = "e18e76dc35ae036f544ce9c1442434754299e969"
+
+[update]
+[update.modrinth]
+mod-id = "d0f1a75r"
+version = "JBg8f0Yi"

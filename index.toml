@@ -41,6 +41,11 @@ hash = "1d5470c3dc86034f5653d870497d27404b55a5d8a50b58a3f431cb8fae455d21"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "7e7ab6eb9a1b6d447f9f41159737b780310f916d3a26e14f8def6af8e57297b6"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "5357e601c12045050cb73a6487661bc366168a527156c6d4adb94f345832939d"
 metafile = true
@@ -116,6 +121,11 @@ hash = "f579b96ce913bf036368da3daee4bd0a60ea43b1923199f3a8a2b9a485664312"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "6ee3501e75883b4b827d5b78c1abeb73eb0a62474b6c53775eae2f7f9b5b63ad"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "6d6404e2f4b91ba17b6907c8bb240e104283493759f0e57cac6e75846c0bcefe"
 metafile = true
@@ -138,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/mavm.pw.toml"
 hash = "be804b2781100a3721d53691d696c0f64529a7bf6185be47076a247a84797192"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "d63dbef61aab8b41913254b5ca6b200cf00b2a52605868a3624f2b767cf956b5"
 metafile = true
 
 [[files]]
@@ -221,8 +236,23 @@ hash = "cd9d3944ee0f3d2a12ddb3e7f67cc73c1642d5620a34b9c305c1a974068c56ce"
 metafile = true
 
 [[files]]
+file = "mods/serversleep.pw.toml"
+hash = "18ef9ed32b347bee4e121c66c8bd88459bd21cb3c83a7d8c3f222ad9e45a67d6"
+metafile = true
+
+[[files]]
+file = "mods/simple-uncrafting-table.pw.toml"
+hash = "b55a0f92a688dcdd7dd3ac47d4d3d83b88750b43866941c8b2cb8bc8ffce61fc"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "9cd59e1bedfda6f48d79c55aa98db675e766d92f4b795d5ed37ed92155d60201"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "b7cfdb537ba82eec4af56ce62ff486dcf130c9b2f4c88f15f00f5079bb4bf50a"
 metafile = true
 
 [[files]]
