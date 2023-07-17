@@ -206,11 +206,6 @@ hash = "5f298a4c1aa9f8393357ddefa968e270aa731a6176a0294213008afd0dd34f1b"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "ed3cf341bd6649dc35bd2e4cacaabbcbb0b1f3cd21598f56eaa6583d9b7d496e"
-metafile = true
-
-[[files]]
 file = "mods/saturn.pw.toml"
 hash = "231d825033099016a241ae4285d261cf70a409c805e5b662e90c7a9b640ee905"
 metafile = true
