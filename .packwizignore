@@ -3,3 +3,7 @@
 
 # exclude self-host folder
 /self-host/
+# exclude instance folder
+/prism-instance/
+# exclude random zips files in main folder
+/*.zip
