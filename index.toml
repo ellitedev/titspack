@@ -16,6 +16,11 @@ hash = "737d7767b4e9e28e3e60805e3f980120b005803c93837e484d935f6156199893"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "971560bccae4dcf74709b8f6c5233ce92d6288148da3141528361a3f63ae5de2"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "c1ce2894a16a5b9e2f9b30c704ace4a94585dd66c0eddeb44c8117d60df6d9f1"
 metafile = true
