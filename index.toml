@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "5ae83d36401d89c90a5028c73d9ea36dc497622ec74494298d0a618fa1c1c9a4"
+hash = "9ba3fb49ab25f51a964b9f971093fec65b9008ae4b5242ca36603bf246f463e7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

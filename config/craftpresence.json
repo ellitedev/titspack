@@ -21,7 +21,7 @@
     "autoRegister": true
   },
   "biomeSettings": {
-    "fallbackBiomeIcon": "unknown",
+    "fallbackBiomeIcon": "icon",
     "biomeData": {
       "default": {
         "textOverride": "Playing in {biome.name}"
@@ -29,7 +29,7 @@
     }
   },
   "dimensionSettings": {
-    "fallbackDimensionIcon": "unknown",
+    "fallbackDimensionIcon": "icon",
     "dimensionData": {
       "default": {
         "textOverride": "In the {dimension.name}"
@@ -37,7 +37,7 @@
     }
   },
   "serverSettings": {
-    "fallbackServerIcon": "default",
+    "fallbackServerIcon": "icon",
     "fallbackServerName": "Minecraft Server",
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
@@ -70,7 +70,7 @@
     "refreshRate": 2,
     "allowPlaceholderPreviews": false,
     "guiSettings": {
-      "fallbackGuiIcon": "unknown",
+      "fallbackGuiIcon": "icon",
       "guiData": {
         "default": {
           "textOverride": "In {screen.name}"
@@ -81,7 +81,7 @@
       "default": "Holding {item.message.holding}"
     },
     "entitySettings": {
-      "fallbackEntityIcon": "unknown",
+      "fallbackEntityIcon": "icon",
       "targetData": {
         "default": {
           "textOverride": "Targeting {entity.target.name}"
@@ -94,7 +94,7 @@
       }
     },
     "allowEndpointIcons": true,
-    "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
+    "serverIconEndpoint": "https://api.mcsrvstat.us/icon/titspack.ellite.dev",
     "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
     "allowDuplicatePackets": false,
     "maxConnectionAttempts": 10
