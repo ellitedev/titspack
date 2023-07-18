@@ -118,6 +118,11 @@ hash = "d0e144830a7ec5744a664ce3c11fc5fa93d0ec84607c96fe421a573734a17697"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "1bfb0c8d14b6d5d1e57d0341aeeac920932baf75b291af2ce990cfac933f6336"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "ed18d89fe8606ba13fbb9a248f63e48ecdad210fe2a77f504926208b3c710136"
 metafile = true
@@ -150,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "2418396d4ca91c84161692225f9f442eaf80edbc309e2043e3782af94a8f489a"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "3aa204d4f4e53d791ae65c35492da1fa52417fd9a855ce46d0b6a221ff364f06"
 metafile = true
 
 [[files]]
