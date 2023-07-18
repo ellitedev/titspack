@@ -5,6 +5,10 @@ file = "config/craftpresence.json"
 hash = "9ba3fb49ab25f51a964b9f971093fec65b9008ae4b5242ca36603bf246f463e7"
 
 [[files]]
+file = "config/twilightforest-client.toml"
+hash = "d99ecbdd4a5a3c48193b5db6e642185067096d553d490020c7fd13a1832a2921"
+
+[[files]]
 file = "journeymap/config/5.9/journeymap.webmap.config"
 hash = "62443947aedd4c1961a387e81beca81b771fbcaf14235a5f5a34767a04425c47"
 
@@ -76,11 +80,6 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "f38da0367e3e865f223b208be8e4153e452806be0613dc0e5b2657aea65dbc94"
-metafile = true
-
-[[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "778ed8ede80bfdc5eb0604b161a19d1d0d58a6eb3cc953f6aeaf03553e56b2e3"
 metafile = true
 
 [[files]]
@@ -356,11 +355,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "1023296832cad093854513f04b0f71849ccdc433657b49d8924fae4fb10d9d50"
-metafile = true
-
-[[files]]
-file = "mods/waterdripsound.pw.toml"
-hash = "a8bf33c5fbbfee46ab80b6570b216fbf06af6e5cdaa7b587208bd6d99b38bfc3"
 metafile = true
 
 [[files]]
