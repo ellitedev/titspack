@@ -3,11 +3,11 @@ filename = "Fastload-Reforged-8.2.1+1.19.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kCpssoSb/versions/9Kgnmrza/Fastload-Reforged-8.2.1%2B1.19.3.jar"
 hash-format = "sha1"
 hash = "c341faf309b3205ac00967c98b9c793c4164dbe6"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "kCpssoSb"
-version = "9Kgnmrza"
+[update.curseforge]
+file-id = 4592942
+project-id = 630620

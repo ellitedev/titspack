@@ -18,6 +18,16 @@ hash = "df561449e65e4b65767d3c2788ea492b176ede0dd922aacd3e974651212a1f63"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "d83fccfbefa34aae187e64c16dd91a4416a276de4603397a94b2706ccc2667a8"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "d445f61b70c8799cb3a699dc42786de4ca8d54952d49f46227dd3530a69b6bd3"
 metafile = true
@@ -55,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1d5470c3dc86034f5653d870497d27404b55a5d8a50b58a3f431cb8fae455d21"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "d68dcbfad0c9ffc207f5222712ad0502203c1db33d9277415f7fcaa120418c2c"
 metafile = true
 
 [[files]]
@@ -139,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "744d1a907f7339ed60204af517bd0a21c36db1a32f5664f3d9cb4590465a2dd5"
+hash = "20861743e4896c4717f8de1291b050ff844a2a5a39898fdf7453ce207cd88510"
 metafile = true
 
 [[files]]
@@ -160,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/gamemenuremovegfarb.pw.toml"
 hash = "33787d289d309c5fcfa2c991cb4032a5cb804f96ebaa38f48bc6cbe31498ff8f"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "be9b4421274cac4a114077484e1fe1a0a26371bbeffd6ab4cd207c320a0514b9"
 metafile = true
 
 [[files]]
@@ -193,6 +213,16 @@ hash = "41834db762956fdfb6225bb96ae4723979180343b680233451de9b811bd06f21"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7163f5e93789818c4f945f1beac1f06af5516a252bac284564fa4b0512563dec"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "754c148d8d5009cb4b19d42f81647e7344f94dded82c4ae4f3203dc6e24e7bdc"
 metafile = true
@@ -205,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "9116ead38df9119fa9d8103c214482aedab1505554865cac1b3bd385019076bd"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "4213fbf3c69dda9733f205d6a0d8d130cccb10f4271cd6a469bf3c99fa358c89"
 metafile = true
 
 [[files]]
@@ -274,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/pluto.pw.toml"
-hash = "8b5017614e890b3eb32618fc379926e4d6938082a9f0dac4a7a87ca9444d1ee8"
+hash = "c323b8c4df8c19fc7c32e1ad61bd5cfe9a7945cf3800a14a275f0d2070fa6f16"
 metafile = true
 
 [[files]]
@@ -289,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/radon.pw.toml"
-hash = "7bdf4e86620a8dcd88ad32d9e983412077cb2fb70ddffc99d9e1f5a2f2a94a1f"
+hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
 metafile = true
 
 [[files]]
@@ -304,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "231d825033099016a241ae4285d261cf70a409c805e5b662e90c7a9b640ee905"
+hash = "ecdacaa9b787772e2d2d449a48d636443b5d2c49d311775a22d5c5e9edb987ea"
 metafile = true
 
 [[files]]
@@ -325,6 +360,21 @@ metafile = true
 [[files]]
 file = "mods/simple-uncrafting-table.pw.toml"
 hash = "b55a0f92a688dcdd7dd3ac47d4d3d83b88750b43866941c8b2cb8bc8ffce61fc"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "d72d792cc0e1f4b2eb7a3d71648bcbff0e1843edfec8f2f47951f44688f42596"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "66d90d5a80487665c670222f81b0b38353123599e1d8da0109b527eb695055cd"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
 metafile = true
 
 [[files]]
