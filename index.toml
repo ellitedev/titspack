@@ -333,6 +333,11 @@ hash = "ee4cf33d418e73df5e778534b547917167a0541f1c65d3bdc5e2c58d6280504d"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "bc1d9b4fd52a81a5cba96020097d64f0379377954f0d691c7a5acc072426efbe"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5f298a4c1aa9f8393357ddefa968e270aa731a6176a0294213008afd0dd34f1b"
 metafile = true
