@@ -378,10 +378,6 @@ hash = "9991ad96dfe18bcf401a047b35edcc6df3b81803ebeee6fcc422f01598c01f12"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "7ce8e26f7f763a7f86fa2f82be3e45928f1eec53b07f267a9100f6c75c05d550"
-
-[[files]]
 file = "resourcepacks/betterenderdragon.pw.toml"
 hash = "889254853e5e89074e19798b37aaf1b2a591ec61d79104ad00b3707a8b60f8b2"
 metafile = true
