@@ -1,0 +1,13 @@
+name = "Equipment Compare"
+filename = "EquipmentCompare-1.19.3-forge-1.3.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CYSUVOdj/versions/Ap8ZVwfi/EquipmentCompare-1.19.3-forge-1.3.2.jar"
+hash-format = "sha1"
+hash = "520cd6028e08efb17ed6522fcbdf1bcf7e484aec"
+
+[update]
+[update.modrinth]
+mod-id = "CYSUVOdj"
+version = "Ap8ZVwfi"

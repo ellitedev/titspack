@@ -54,6 +54,11 @@ hash = "1d5470c3dc86034f5653d870497d27404b55a5d8a50b58a3f431cb8fae455d21"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "db1a9131ca013d2b744166f5788b935f08eb47752356607517c563d454b83267"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "7e7ab6eb9a1b6d447f9f41159737b780310f916d3a26e14f8def6af8e57297b6"
 metafile = true
@@ -84,6 +89,11 @@ hash = "a25fe773e11f19a8ca1296c3955048b444ad2d4cf85706f2cf77d07b09ccb5e2"
 metafile = true
 
 [[files]]
+file = "mods/displaycase.pw.toml"
+hash = "9a9a24c882455d2a79fece6abbe8b9de87b9820c66e053af02ff6f74e80a46af"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d188021568b1781635bc70f884400336730660c72cf96864f8bcf1c7fb0449b0"
 metafile = true
@@ -99,13 +109,28 @@ hash = "ed18d89fe8606ba13fbb9a248f63e48ecdad210fe2a77f504926208b3c710136"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "39c40682ad591afee1cef7d3473d23b8f4d22cc518158eda46429b4b682fbd2e"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "0df61a11c15f338ebbe21cc855e3c7ebb6579b88dc8f33f80e33e71448dbbfb9"
 metafile = true
 
 [[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "7c514592bd3d3562a8cdadda92bb5f4bab362932f653a3285f5472e3d0a985f5"
+metafile = true
+
+[[files]]
 file = "mods/extended-slabs-plus.pw.toml"
 hash = "588c8f1ff0814435aed7160deb511cc27bb42ca425b4ca1d2aeaf1b7f6b45e5e"
+metafile = true
+
+[[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "82fae45ea254449909803c84284206d4541e49be28bd99c72217dd9749fdf0ea"
 metafile = true
 
 [[files]]
@@ -134,6 +159,11 @@ hash = "f579b96ce913bf036368da3daee4bd0a60ea43b1923199f3a8a2b9a485664312"
 metafile = true
 
 [[files]]
+file = "mods/gamemenuremovegfarb.pw.toml"
+hash = "33787d289d309c5fcfa2c991cb4032a5cb804f96ebaa38f48bc6cbe31498ff8f"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "6ee3501e75883b4b827d5b78c1abeb73eb0a62474b6c53775eae2f7f9b5b63ad"
 metafile = true
@@ -144,13 +174,43 @@ hash = "6d6404e2f4b91ba17b6907c8bb240e104283493759f0e57cac6e75846c0bcefe"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "ca2185e0db5a494a40763c8fc7038b3475005fb4b16d825f9bec1ba90b894066"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "b6be5fede06954600f8c3774b2aead042ea8a4e15334faa80eb7296f8317aa5c"
+metafile = true
+
+[[files]]
+file = "mods/inventory-pets.pw.toml"
+hash = "79c5f9ccd99f71d2b6138f02cd90c9a5f9df252f293de6358136f469e2f34c74"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "41834db762956fdfb6225bb96ae4723979180343b680233451de9b811bd06f21"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "754c148d8d5009cb4b19d42f81647e7344f94dded82c4ae4f3203dc6e24e7bdc"
+metafile = true
+
+[[files]]
+file = "mods/let-sleeping-dogs-lie.pw.toml"
+hash = "12636a223cc97f64a51e12a9282fb4b7a1b7e14eaefad218d6eadedd3c23bf24"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "9116ead38df9119fa9d8103c214482aedab1505554865cac1b3bd385019076bd"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "dc2e9747a0c0d917efc8b1029eb391915ddc92d3ddb6a908b9c6cd895fc727cf"
 metafile = true
 
 [[files]]
@@ -184,6 +244,11 @@ hash = "4d9139243fa7df7676f91ac5293024e71647259103b911b2583e25fb7acb7a30"
 metafile = true
 
 [[files]]
+file = "mods/mooshroom-tweaks.pw.toml"
+hash = "ea6cede30d18feed77cd5e2b30a21ab5033844bd2d293a3266d08116468a9eb4"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "8c1ecf8820bfe3059f9fe3a75b6f7a5f5dc785d57386ef03bbd8ef2c48bab0f7"
 metafile = true
@@ -211,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/pluto.pw.toml"
 hash = "8b5017614e890b3eb32618fc379926e4d6938082a9f0dac4a7a87ca9444d1ee8"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "1fc31433d63eddc0a44c8f29a322a471eb8ae960427f2c13c9248d3eaa015824"
 metafile = true
 
 [[files]]
@@ -264,6 +334,11 @@ hash = "9cd59e1bedfda6f48d79c55aa98db675e766d92f4b795d5ed37ed92155d60201"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "881b98b88ed5bd166490dad31e1f48f132e755ea0f8aacb61e67003dd6e551bc"
+metafile = true
+
+[[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "b7cfdb537ba82eec4af56ce62ff486dcf130c9b2f4c88f15f00f5079bb4bf50a"
 metafile = true
@@ -274,13 +349,38 @@ hash = "b93993a54c2ce2465446f58dc4b91caec4e5d9a1ade03c56f3eedddbb89879b2"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "7e1cc9fe6efe9ba5abeb0f0c67ed9721f63d0e71c09a00f6d869a2d5833190b4"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "1023296832cad093854513f04b0f71849ccdc433657b49d8924fae4fb10d9d50"
 metafile = true
 
 [[files]]
+file = "mods/waterdripsound.pw.toml"
+hash = "a8bf33c5fbbfee46ab80b6570b216fbf06af6e5cdaa7b587208bd6d99b38bfc3"
+metafile = true
+
+[[files]]
 file = "mods/xercamod.pw.toml"
 hash = "d95e28e47cf92be29fae568c849f3b497efccda99fdb9f77e8c03b19943ec710"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "355b7bf4fb2ea4a468a025bcedc946c6c37469aae0c3fde5b19bdfd99fa17bc5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "0a3ee22ac3fe42937611791370610510c000d7a740d7b6782bdce9f5c04a348a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "9991ad96dfe18bcf401a047b35edcc6df3b81803ebeee6fcc422f01598c01f12"
 metafile = true
 
 [[files]]

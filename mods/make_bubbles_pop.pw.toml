@@ -1,0 +1,13 @@
+name = "Make Bubbles Pop"
+filename = "make_bubbles_pop-0.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gPCdW0Wr/versions/WpwJHkgu/make_bubbles_pop-0.1.0.jar"
+hash-format = "sha1"
+hash = "15724b15eb73c699d2519db434770232478d3521"
+
+[update]
+[update.modrinth]
+mod-id = "gPCdW0Wr"
+version = "WpwJHkgu"

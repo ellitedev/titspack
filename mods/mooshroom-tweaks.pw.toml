@@ -1,0 +1,13 @@
+name = "Mooshroom Tweaks"
+filename = "mooshroomtweaks-1.19.3-3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B10lMHiA/versions/r1M9yRM4/mooshroomtweaks-1.19.3-3.2.jar"
+hash-format = "sha1"
+hash = "b46d8613e2e47f4515e00390284fd248cc090df2"
+
+[update]
+[update.modrinth]
+mod-id = "B10lMHiA"
+version = "r1M9yRM4"

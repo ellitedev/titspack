@@ -1,0 +1,13 @@
+name = "Prism"
+filename = "Prism-1.19.3-forge-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1OE8wbN0/versions/5jS9gaCZ/Prism-1.19.3-forge-1.0.3.jar"
+hash-format = "sha1"
+hash = "71ee6651d0b1c52f14aae934d5ab0402aac871d4"
+
+[update]
+[update.modrinth]
+mod-id = "1OE8wbN0"
+version = "5jS9gaCZ"

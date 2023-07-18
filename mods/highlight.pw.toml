@@ -1,0 +1,13 @@
+name = "Highlight"
+filename = "highlight-1.1.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vz96hXMh/versions/YXHoqpOG/highlight-1.1.1-forge.jar"
+hash-format = "sha1"
+hash = "03ecb60782dbcb3d4176cba63710537dca0d40c3"
+
+[update]
+[update.modrinth]
+mod-id = "Vz96hXMh"
+version = "YXHoqpOG"

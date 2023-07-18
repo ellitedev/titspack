@@ -1,0 +1,13 @@
+name = "Game Menu Remove GFARB"
+filename = "gamemenuremovegfarb-forge-mc1.19.3-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bKQclmIt/versions/U5Siy8h7/gamemenuremovegfarb-forge-mc1.19.3-2.0.0.jar"
+hash-format = "sha1"
+hash = "ce5e73060c37bd717adca7f2fdca0d3125e06c74"
+
+[update]
+[update.modrinth]
+mod-id = "bKQclmIt"
+version = "U5Siy8h7"

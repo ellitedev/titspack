@@ -1,0 +1,13 @@
+name = "Display Case"
+filename = "Display Case-forge-1.19.3-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/4uWOaapG/Display%20Case-forge-1.19.3-1.0.4.jar"
+hash-format = "sha1"
+hash = "6b451cf1e5863b4fe9ad3c0278e377b642b051d2"
+
+[update]
+[update.modrinth]
+mod-id = "cSIsh4gX"
+version = "4uWOaapG"
