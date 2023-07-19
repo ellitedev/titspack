@@ -1,0 +1,13 @@
+name = "Dynamic Music Updated"
+filename = "dynmus-v2.3.1+1.19.3-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ilfn0HT9/versions/8sW9A3eU/dynmus-v2.3.1%2B1.19.3-forge.jar"
+hash-format = "sha1"
+hash = "cd8bc804b7bb6a7c8ed94bd11cf0ac3302d5db37"
+
+[update]
+[update.modrinth]
+mod-id = "ilfn0HT9"
+version = "8sW9A3eU"

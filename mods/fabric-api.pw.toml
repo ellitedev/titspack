@@ -1,0 +1,7 @@
+name = "fabric-api"
+filename = "fabric-api-0.76.1+1.19.3.jar"
+
+[download]
+url = "https://ellitedev.github.io/titspack/self-host/fabric-api-0.76.1+1.19.3.jar"
+hash-format = "sha256"
+hash = "3343713402af85b2a712c7c801854d8b3c2065b4ff3bbd3bd3ddd240f1e15c9f"

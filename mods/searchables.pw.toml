@@ -1,0 +1,13 @@
+name = "Searchables"
+filename = "Searchables-forge-1.19.3-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/hLMrJBAr/Searchables-forge-1.19.3-1.0.1.jar"
+hash-format = "sha1"
+hash = "82a0df5c5ebd2ee6332c509ac7cc2ca0dee7cb44"
+
+[update]
+[update.modrinth]
+mod-id = "fuuu3xnx"
+version = "hLMrJBAr"

@@ -1,13 +1,16 @@
 name = "TitsPack"
 author = "ellitedev"
-version = "2.1.5"
+version = "2.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "de10dc4d478911fbaefdb1a3208f1d8cd5cfe669bfd2b8a23e288c0de8525dea"
+hash = "eeeb1ab73670295bbd0765c3f123f6badd10b25884146483f0392377d3293e85"
 
 [versions]
 forge = "44.1.23"
 minecraft = "1.19.3"
+
+[options]
+acceptable-game-versions = []

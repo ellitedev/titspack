@@ -1,0 +1,13 @@
+name = "Controlling"
+filename = "Controlling-forge-1.19.3-10.0+2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/jT1SVIZR/Controlling-forge-1.19.3-10.0%2B2.jar"
+hash-format = "sha1"
+hash = "8009c5f65d6ec8c057dd441ec39d75fc6b54c471"
+
+[update]
+[update.modrinth]
+mod-id = "xv94TkTM"
+version = "jT1SVIZR"

@@ -1,0 +1,13 @@
+name = "Better Taskbar"
+filename = "bettertaskbar-forge-mc1.19.3-1.6.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gPEcet33/versions/9nf3BeQJ/bettertaskbar-forge-mc1.19.3-1.6.1.jar"
+hash-format = "sha1"
+hash = "339eb3ba8bcb5c5ea9c65601e9abdfdfb6e2fc20"
+
+[update]
+[update.modrinth]
+mod-id = "gPEcet33"
+version = "9nf3BeQJ"

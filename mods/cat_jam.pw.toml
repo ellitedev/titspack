@@ -1,0 +1,14 @@
+name = "cat_jam"
+filename = "cat_jam-1.0.1.jar"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/x3s69afN/versions/380DtScN/cat_jam-1.0.1.jar"
+hash-format = "sha1"
+hash = "1426912ccb2b818d0c0ad7292a79c214b500dc75"
+
+[update]
+[update.modrinth]
+mod-id = "x3s69afN"
+version = "380DtScN"

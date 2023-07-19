@@ -1,0 +1,13 @@
+name = "Tips"
+filename = "Tips-Forge-1.19.3-9.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AMCbgyVw/versions/dgwOAWOz/Tips-Forge-1.19.3-9.0.4.jar"
+hash-format = "sha1"
+hash = "2417835835c35fc64c5a9055fb2b265352b3b1a1"
+
+[update]
+[update.modrinth]
+mod-id = "AMCbgyVw"
+version = "dgwOAWOz"
