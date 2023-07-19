@@ -10,27 +10,27 @@ hash = "d99ecbdd4a5a3c48193b5db6e642185067096d553d490020c7fd13a1832a2921"
 
 [[files]]
 file = "global_packs/required_resources/betterenderdragon.pw.toml"
-hash = "889254853e5e89074e19798b37aaf1b2a591ec61d79104ad00b3707a8b60f8b2"
+hash = "d4072a6236332993c0cd123646fb067cd1a273e1046b04568cfbd0e37dc44270"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/mizuno16craft.pw.toml"
-hash = "f563ae5b58185a4252ddac6c35746cd9e8f5bbb2e588ca8b75287611a60941f2"
+hash = "168b7b332478b6427cce28d5b0321b7c89ca2c840ea25a3cdb36256e43294f1c"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/mizunoCIT.pw.toml"
-hash = "284cd668c36c693476398a97ed913dba7e2ff145c8c3adebf1dff0e7c880cfa3"
+hash = "863e7408c0c25faaa44b7ab1a7fad2877d08b719f9de42a62749f3fa818283c4"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/trans-item.pw.toml"
-hash = "3fbd567565422184d1ddbc17979dbe3b8b3659a89544fba6801ea11b556763bd"
+hash = "1bf17784663666134b3cf398dca7587fa87b7cd745640df82533fc631542f5a4"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/visual-travelers-titles.pw.toml"
-hash = "9119ccd892bcc63f23e5d5eacf01490de772ae3c90b98df1faa2a7fe48930921"
+hash = "9d8a4f1c8968b61c13bffcde5192729e510054f2b4a91204d17c3578322a8c15"
 metafile = true
 
 [[files]]
