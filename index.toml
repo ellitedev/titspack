@@ -15,12 +15,12 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/mizuno16craft.pw.toml"
-hash = "168b7b332478b6427cce28d5b0321b7c89ca2c840ea25a3cdb36256e43294f1c"
+hash = "87544f0b97ac5e2cffa566d9e33a920b872c9e88e9251b69e345dfd378cec925"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/mizunoCIT.pw.toml"
-hash = "863e7408c0c25faaa44b7ab1a7fad2877d08b719f9de42a62749f3fa818283c4"
+hash = "d08ddad0ebac16e8843c7f0ef9120bc95d9687eafc14ef382c7baf57a37fa70b"
 metafile = true
 
 [[files]]
