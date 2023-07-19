@@ -1,12 +1,12 @@
 name = "TitsPack"
 author = "ellitedev"
-version = "2.2.0"
+version = "2.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "eeeb1ab73670295bbd0765c3f123f6badd10b25884146483f0392377d3293e85"
+hash = "235ec09743bcf0d5d3a37d17aeb2ef5dbc6c0db47ef2eb61b979039b35d7de5d"
 
 [versions]
 forge = "44.1.23"
