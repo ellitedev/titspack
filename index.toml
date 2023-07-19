@@ -223,6 +223,11 @@ hash = "be9b4421274cac4a114077484e1fe1a0a26371bbeffd6ab4cd207c320a0514b9"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "4af3085e1acb71c9eed4a35981f14b542fb986bf8a4afa2fa6f02e9e86117227"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "6ee3501e75883b4b827d5b78c1abeb73eb0a62474b6c53775eae2f7f9b5b63ad"
 metafile = true
