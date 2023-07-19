@@ -9,6 +9,36 @@ file = "config/twilightforest-client.toml"
 hash = "d99ecbdd4a5a3c48193b5db6e642185067096d553d490020c7fd13a1832a2921"
 
 [[files]]
+file = "global_packs/required_resources/betterenderdragon.pw.toml"
+hash = "889254853e5e89074e19798b37aaf1b2a591ec61d79104ad00b3707a8b60f8b2"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/mizuno16craft.pw.toml"
+hash = "f563ae5b58185a4252ddac6c35746cd9e8f5bbb2e588ca8b75287611a60941f2"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/mizunoCIT.pw.toml"
+hash = "284cd668c36c693476398a97ed913dba7e2ff145c8c3adebf1dff0e7c880cfa3"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/trans-item.pw.toml"
+hash = "3fbd567565422184d1ddbc17979dbe3b8b3659a89544fba6801ea11b556763bd"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/visual-travelers-titles.pw.toml"
+hash = "50816d5f290f715fd365b073db5948853f95bf149cad9ab9da9a67a3398ab390"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/xalis-bushy-leaves.pw.toml"
+hash = "f5516eb0a0f54421d794844d4d15ff9abf07455157b6436878cf0fecc5e5b078"
+metafile = true
+
+[[files]]
 file = "journeymap/config/5.9/journeymap.webmap.config"
 hash = "62443947aedd4c1961a387e81beca81b771fbcaf14235a5f5a34767a04425c47"
 
@@ -278,11 +308,6 @@ hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "c66de822c0d7abc221ecf5a069c30383ac2ff64f554edb22923f6a4223557a00"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "4d9139243fa7df7676f91ac5293024e71647259103b911b2583e25fb7acb7a30"
 metafile = true
@@ -443,33 +468,8 @@ hash = "9991ad96dfe18bcf401a047b35edcc6df3b81803ebeee6fcc422f01598c01f12"
 metafile = true
 
 [[files]]
-file = "resourcepacks/betterenderdragon.pw.toml"
-hash = "889254853e5e89074e19798b37aaf1b2a591ec61d79104ad00b3707a8b60f8b2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mizuno16craft.pw.toml"
-hash = "f563ae5b58185a4252ddac6c35746cd9e8f5bbb2e588ca8b75287611a60941f2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mizunoCIT.pw.toml"
-hash = "284cd668c36c693476398a97ed913dba7e2ff145c8c3adebf1dff0e7c880cfa3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/trans-item.pw.toml"
-hash = "3fbd567565422184d1ddbc17979dbe3b8b3659a89544fba6801ea11b556763bd"
-metafile = true
-
-[[files]]
 file = "resourcepacks/transgui.pw.toml"
 hash = "7e6cbda6a8902a9800d888e1ae6911ea9ba6f5ceb99a5664de8f1b133e71f8d9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-bushy-leaves.pw.toml"
-hash = "f5516eb0a0f54421d794844d4d15ff9abf07455157b6436878cf0fecc5e5b078"
 metafile = true
 
 [[files]]
