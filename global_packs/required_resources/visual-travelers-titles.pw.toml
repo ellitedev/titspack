@@ -1,0 +1,8 @@
+name = "visual-travelers-titles"
+filename = "Visual+Titles.zip"
+side = "client"
+
+[download]
+url = "https://ellitedev.github.io/titspack/self-host/Visual+Titles.zip"
+hash-format = "sha256"
+hash = "9d6a4220fb47edad0a49f7e1350ffda5deabd5e1d480fa54e7f37ae387da58d3"

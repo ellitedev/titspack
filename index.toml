@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/visual-travelers-titles.pw.toml"
-hash = "50816d5f290f715fd365b073db5948853f95bf149cad9ab9da9a67a3398ab390"
+hash = "9119ccd892bcc63f23e5d5eacf01490de772ae3c90b98df1faa2a7fe48930921"
 metafile = true
 
 [[files]]
