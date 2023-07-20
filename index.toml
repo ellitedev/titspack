@@ -63,6 +63,11 @@ hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "d9965d4f8554bf494dc75efec3e170e3cbefdfc9c97628be26df926be9f65311"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "d83fccfbefa34aae187e64c16dd91a4416a276de4603397a94b2706ccc2667a8"
 metafile = true
@@ -130,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "bb74b96d3e633f65ad9711003ed21cb28acee0bdb2b5fd598711ed8c28b43a43"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "ac4bb5d20b28db1bef97b1e2500665cd4104cd53a792521071f037772c09ba14"
 metafile = true
 
 [[files]]
