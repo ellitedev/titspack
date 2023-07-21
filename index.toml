@@ -288,6 +288,11 @@ hash = "f579b96ce913bf036368da3daee4bd0a60ea43b1923199f3a8a2b9a485664312"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "5ae4583edcb4c57970e8666d553052d6c8afeab337c6e9818269fafb6377c1dd"
+metafile = true
+
+[[files]]
 file = "mods/gamemenuremovegfarb.pw.toml"
 hash = "33787d289d309c5fcfa2c991cb4032a5cb804f96ebaa38f48bc6cbe31498ff8f"
 metafile = true
