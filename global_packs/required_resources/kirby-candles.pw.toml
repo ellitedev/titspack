@@ -1,0 +1,8 @@
+name = "kirby-candles"
+filename = "sleeping-kirby.zip"
+side = "client"
+
+[download]
+url = "https://static.planetminecraft.com/files/resource_media/texture/sleeping-kirby.zip"
+hash-format = "sha256"
+hash = "2bbf0ad6df760e3d177b443de9a5c3c7b836b8cd24d5388a3b5f0908b0ad3afb"

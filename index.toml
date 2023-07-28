@@ -14,6 +14,11 @@ hash = "d4072a6236332993c0cd123646fb067cd1a273e1046b04568cfbd0e37dc44270"
 metafile = true
 
 [[files]]
+file = "global_packs/required_resources/kirby-candles.pw.toml"
+hash = "6556036a4c66a24f6065a07cefa6efef55bc2a4696a27ad8cdf52541b40a2fd9"
+metafile = true
+
+[[files]]
 file = "global_packs/required_resources/mizuno16craft.pw.toml"
 hash = "87544f0b97ac5e2cffa566d9e33a920b872c9e88e9251b69e345dfd378cec925"
 metafile = true
@@ -125,6 +130,11 @@ metafile = true
 [[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "48310e10d64aa4d2a4f876507b4f66e59891804a8b044b059f912c44cdf704c7"
+metafile = true
+
+[[files]]
+file = "mods/cave-dweller.pw.toml"
+hash = "ad7019c41afde8b6526ab6d7c046b86ccb5c7190e1be14c7dcec77eff48191b5"
 metafile = true
 
 [[files]]
@@ -500,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/simple-uncrafting-table.pw.toml"
 hash = "b55a0f92a688dcdd7dd3ac47d4d3d83b88750b43866941c8b2cb8bc8ffce61fc"
+metafile = true
+
+[[files]]
+file = "mods/simply-light.pw.toml"
+hash = "e3c5967c49d7afd735801598553e08b7019c04d770200407bb2acf3540004137"
 metafile = true
 
 [[files]]
