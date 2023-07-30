@@ -133,11 +133,6 @@ hash = "48310e10d64aa4d2a4f876507b4f66e59891804a8b044b059f912c44cdf704c7"
 metafile = true
 
 [[files]]
-file = "mods/cave-dweller.pw.toml"
-hash = "ad7019c41afde8b6526ab6d7c046b86ccb5c7190e1be14c7dcec77eff48191b5"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "2389fb30d6a2735afca632739fcabb6ac0a50a0b98e3148cbff9fc9bc3b1d949"
 metafile = true
