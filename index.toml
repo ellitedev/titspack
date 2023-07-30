@@ -308,6 +308,11 @@ hash = "33787d289d309c5fcfa2c991cb4032a5cb804f96ebaa38f48bc6cbe31498ff8f"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "3ba3bef2ce2f05c058c3c4792cce4c89dda06229161765d7a39b116e6b54191b"
+metafile = true
+
+[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "be9b4421274cac4a114077484e1fe1a0a26371bbeffd6ab4cd207c320a0514b9"
 metafile = true
