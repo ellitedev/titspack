@@ -1,0 +1,13 @@
+name = "Now Playing"
+filename = "now-playing-forge-1.4.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eNF4Bfla/versions/2f5TojZt/now-playing-forge-1.4.2.jar"
+hash-format = "sha1"
+hash = "7f76970c30b7aa0c4bc7d24ee7749162d8a07c06"
+
+[update]
+[update.modrinth]
+mod-id = "eNF4Bfla"
+version = "2f5TojZt"

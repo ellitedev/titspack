@@ -443,6 +443,11 @@ hash = "e94c51721ad10058f1cd57ee5b21825ead89c4968a4a9e23fa3a6dcd73213313"
 metafile = true
 
 [[files]]
+file = "mods/now-playing.pw.toml"
+hash = "5141959e855a268dc6b4acc51bcb11e5dbdfebea488831611e8bc25d1d8bd967"
+metafile = true
+
+[[files]]
 file = "mods/optifine.pw.toml"
 hash = "9fc9e591d86ad13b950ebd74ea55bffd859d4444e7c120497d132ca86939856a"
 metafile = true
