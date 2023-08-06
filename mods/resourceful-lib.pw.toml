@@ -3,11 +3,11 @@ filename = "resourcefullib-1.2.7.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/l33ODpNh/resourcefullib-1.2.7.jar"
 hash-format = "sha1"
 hash = "4a1da362589e41182065e3576306e3f02e5d9d75"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4378849
-project-id = 570073
+[update.modrinth]
+mod-id = "G1hIVOrD"
+version = "l33ODpNh"

@@ -53,6 +53,16 @@ hash = "df561449e65e4b65767d3c2788ea492b176ede0dd922aacd3e974651212a1f63"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "66ccf252820b4f843beaed932a28de29ca337fe0174715c2efdff2876504bdf8"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "3455f7c0e7bc9503c607af2a0659a2922758007e6b53a048ed16458ce7d43697"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2aaee2a732b384672038bdc1d1925edddb2f52da27a763fc560846c65b436249"
 metafile = true
@@ -115,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "e86b6b700937cac65614c0a15d942a0e22f2a60f493cc847014bcef4eea7d584"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "83ab810383f33de4205409d35c2047bee03541bdb1d6982b03df1e199625ee00"
 metafile = true
 
 [[files]]
@@ -483,8 +498,13 @@ hash = "bc1d9b4fd52a81a5cba96020097d64f0379377954f0d691c7a5acc072426efbe"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "6a1a1526388e1955ed8b04a510f722c5888a6fb9f0266409bddfcca0bb353e6c"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "5f298a4c1aa9f8393357ddefa968e270aa731a6176a0294213008afd0dd34f1b"
+hash = "eb20414e9f7ee328a35a6dca47147ae363188da851538f8aa50bc2d1a5bc307b"
 metafile = true
 
 [[files]]
@@ -550,6 +570,16 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "9cd59e1bedfda6f48d79c55aa98db675e766d92f4b795d5ed37ed92155d60201"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "73012901f1b8b96d16104ce9a6fba6fc9aaca9cbcb086b90aa9cbcff1961551e"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-cities.pw.toml"
+hash = "2adab6e59295ed79a934bb6ec4a3815216c94bfc9b50753a764e6690cb715f97"
 metafile = true
 
 [[files]]
