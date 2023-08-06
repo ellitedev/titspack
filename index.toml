@@ -108,6 +108,11 @@ hash = "39873dc8ddabaf446fb6958553748bedbf36f65b2a3d6e13336b5828ce972c36"
 metafile = true
 
 [[files]]
+file = "mods/blue-skies.pw.toml"
+hash = "687d37ce6c12ac2e39971e1ee7b516f71ad3dedbc19a237d3d1af605dba86eee"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "39b7279e0dec821e259b473f850da23deabb8091d576af85240a6cd4936693d5"
 metafile = true
@@ -483,6 +488,11 @@ hash = "bc1d9b4fd52a81a5cba96020097d64f0379377954f0d691c7a5acc072426efbe"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "f04fb2ade6e8a8711381143fbd8b1a5f5a7b937a25c6b7f1b852ec97ce4969b1"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5f298a4c1aa9f8393357ddefa968e270aa731a6176a0294213008afd0dd34f1b"
 metafile = true
@@ -548,8 +558,23 @@ hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
 metafile = true
 
 [[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "49bf622f4d62eeca483120b15505b2877be5fe51a54d5efb8720a3e53b3c2fe2"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "9cd59e1bedfda6f48d79c55aa98db675e766d92f4b795d5ed37ed92155d60201"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "73012901f1b8b96d16104ce9a6fba6fc9aaca9cbcb086b90aa9cbcff1961551e"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-cities.pw.toml"
+hash = "2adab6e59295ed79a934bb6ec4a3815216c94bfc9b50753a764e6690cb715f97"
 metafile = true
 
 [[files]]
