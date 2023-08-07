@@ -1,0 +1,13 @@
+name = "When Dungeons Arise"
+filename = "DungeonsArise-1.19.3-2.1.54-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8DfbfASn/versions/5EJcAYwV/DungeonsArise-1.19.3-2.1.54-beta.jar"
+hash-format = "sha1"
+hash = "b9460edf0bb8022455951e349ab15372c0b55df2"
+
+[update]
+[update.modrinth]
+mod-id = "8DfbfASn"
+version = "5EJcAYwV"

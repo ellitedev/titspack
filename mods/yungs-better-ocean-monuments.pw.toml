@@ -1,0 +1,13 @@
+name = "YUNG's Better Ocean Monuments"
+filename = "YungsBetterOceanMonuments-1.19.3-Forge-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3dT9sgt4/versions/EeHu6MGe/YungsBetterOceanMonuments-1.19.3-Forge-2.2.0.jar"
+hash-format = "sha1"
+hash = "09eadae6d4e9bc35777097a0a0848a76a18a3eb0"
+
+[update]
+[update.modrinth]
+mod-id = "3dT9sgt4"
+version = "EeHu6MGe"

@@ -1,0 +1,13 @@
+name = "DivineRPG"
+filename = "DivineRPG-1.9.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F3kLpGw6/versions/7yTmKUMd/DivineRPG-1.9.7.jar"
+hash-format = "sha1"
+hash = "67eb23b1425e878e66afd0d7c4ae1cefa1424850"
+
+[update]
+[update.modrinth]
+mod-id = "F3kLpGw6"
+version = "7yTmKUMd"

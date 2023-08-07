@@ -1,0 +1,13 @@
+name = "Nether Dungeons"
+filename = "netherdungeons-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m9Ae6Puo/versions/uiJSzXm3/netherdungeons-1.0.2.jar"
+hash-format = "sha1"
+hash = "663915af000801ae373e2af476f584307d7c4782"
+
+[update]
+[update.modrinth]
+mod-id = "m9Ae6Puo"
+version = "uiJSzXm3"

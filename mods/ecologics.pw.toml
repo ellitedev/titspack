@@ -1,0 +1,13 @@
+name = "Ecologics"
+filename = "ecologics-forge-1.19.3-2.1.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NCKpPR0Z/versions/gqMLkzBT/ecologics-forge-1.19.3-2.1.13.jar"
+hash-format = "sha1"
+hash = "7c999d06f20a24f52aee9122bb17ab5d0e2b5d3c"
+
+[update]
+[update.modrinth]
+mod-id = "NCKpPR0Z"
+version = "gqMLkzBT"

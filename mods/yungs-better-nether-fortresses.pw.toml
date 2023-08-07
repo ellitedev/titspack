@@ -1,0 +1,13 @@
+name = "YUNG's Better Nether Fortresses"
+filename = "YungsBetterNetherFortresses-1.19.3-Forge-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z2mXHnxP/versions/CthwWOrc/YungsBetterNetherFortresses-1.19.3-Forge-1.1.1.jar"
+hash-format = "sha1"
+hash = "8078845d58a110fdb1f7378445cced1c811e7b68"
+
+[update]
+[update.modrinth]
+mod-id = "Z2mXHnxP"
+version = "CthwWOrc"

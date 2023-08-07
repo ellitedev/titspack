@@ -1,0 +1,13 @@
+name = "YUNG's Better Strongholds"
+filename = "YungsBetterStrongholds-1.19.3-Forge-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kidLKymU/versions/ZpXd8UfW/YungsBetterStrongholds-1.19.3-Forge-3.3.0.jar"
+hash-format = "sha1"
+hash = "6ac77d8cc4a2124bba54ba36f286770d5d341cf8"
+
+[update]
+[update.modrinth]
+mod-id = "kidLKymU"
+version = "ZpXd8UfW"
