@@ -578,11 +578,6 @@ hash = "73012901f1b8b96d16104ce9a6fba6fc9aaca9cbcb086b90aa9cbcff1961551e"
 metafile = true
 
 [[files]]
-file = "mods/the-lost-cities.pw.toml"
-hash = "2adab6e59295ed79a934bb6ec4a3815216c94bfc9b50753a764e6690cb715f97"
-metafile = true
-
-[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "881b98b88ed5bd166490dad31e1f48f132e755ea0f8aacb61e67003dd6e551bc"
 metafile = true
