@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "971560bccae4dcf74709b8f6c5233ce92d6288148da3141528361a3f63ae5de2"
+hash = "c8a69ec7ebca6f73c4154a35ffd958885b1957a2094847f0f7314644db1355c9"
 metafile = true
 
 [[files]]
@@ -135,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "83ab810383f33de4205409d35c2047bee03541bdb1d6982b03df1e199625ee00"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "4253251bbb5b799493ed2ab3156093a1d4151e44ca3ba0596d4959ffc1dabccb"
 metafile = true
 
 [[files]]
@@ -174,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1d5470c3dc86034f5653d870497d27404b55a5d8a50b58a3f431cb8fae455d21"
+hash = "b132cb71770885a80cbec8f6bc1cb9549bf8c63dd8efff01d69e0677c0dd3f9d"
 metafile = true
 
 [[files]]
@@ -268,6 +273,11 @@ hash = "f8b9602fffacf287b71d2d51b2ab47169a0bfb070b7d8a49b8ef87f980ed52c4"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "c169a2d99b5741d0f2d6968e8976a5a388d2a013f3950dba3c73c0a7857726bc"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "111aecedb4d27e9cd728afafb078f13c69150f8fc1fdff44a17604edfad52359"
 metafile = true
@@ -295,11 +305,6 @@ metafile = true
 [[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "82fae45ea254449909803c84284206d4541e49be28bd99c72217dd9749fdf0ea"
-metafile = true
-
-[[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "2418396d4ca91c84161692225f9f442eaf80edbc309e2043e3782af94a8f489a"
 metafile = true
 
 [[files]]
@@ -385,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "8cd263da2b2ee411248ffce02ff8653c945aa5fbd55010ef603b14e72498a329"
+metafile = true
+
+[[files]]
+file = "mods/infinity-with-mending.pw.toml"
+hash = "6bc1c1bf6958b983ffdbe720d18d1ccc55d4260827ceef29ef1eb01d957892ab"
 metafile = true
 
 [[files]]
@@ -518,6 +528,11 @@ hash = "9fc9e591d86ad13b950ebd74ea55bffd859d4444e7c120497d132ca86939856a"
 metafile = true
 
 [[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "60dde514864bc980599387d998d59f3e431ea5f8fb6213cf8bf68b5c9bd88271"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "a5fd3cb0016f4d4b8c232d97e18e7c229e9887caf36da14aa2923b7089c8a651"
 metafile = true
@@ -525,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/pluto.pw.toml"
 hash = "c323b8c4df8c19fc7c32e1ad61bd5cfe9a7945cf3800a14a275f0d2070fa6f16"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "7116a32e0b227dddb7bbb74fb56b32db5a3a1512fc1809c6f61cb4027cb9ccf6"
 metafile = true
 
 [[files]]
@@ -615,6 +635,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "61799bc6367ee86a72fe54b131576cbbc6f4dbe1a1a134d561e83b02a72691be"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "4c112231bdb23cbee616edec43fc7d6b2febfacab514e274025a1826c32dee84"
 metafile = true
 
 [[files]]

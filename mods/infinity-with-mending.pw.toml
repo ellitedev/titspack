@@ -1,0 +1,13 @@
+name = "Infinity With Mending"
+filename = "infwithmend-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TToG3iVN/versions/ya36vIxs/infwithmend-1.0.2.jar"
+hash-format = "sha1"
+hash = "5f33737f03dcd9a159e8e4e9c5a0116dd97eb2b7"
+
+[update]
+[update.modrinth]
+mod-id = "TToG3iVN"
+version = "ya36vIxs"

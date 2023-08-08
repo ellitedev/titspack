@@ -1,0 +1,13 @@
+name = "Panda's Falling Tree's (Forge/Fabric)"
+filename = "fallingtrees-1.19.3-1.20.1+0.5.3-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc9c2e2b29128abc1e55ac33c1c37b143bdd42de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4639280
+project-id = 880630
