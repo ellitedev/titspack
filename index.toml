@@ -733,6 +733,11 @@ hash = "9991ad96dfe18bcf401a047b35edcc6df3b81803ebeee6fcc422f01598c01f12"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "16ad670431e0ff6c3b3d1f9da6ffcd2ee9e5db2c1f5b6185e97d564a4b9ee834"
+metafile = true
+
+[[files]]
 file = "resourcepacks/transgui.pw.toml"
 hash = "7e6cbda6a8902a9800d888e1ae6911ea9ba6f5ceb99a5664de8f1b133e71f8d9"
 metafile = true

@@ -1,0 +1,62 @@
+version: "3.8"
+
+services:
+  mc:
+    image: itzg/minecraft-server:latest
+    ports:
+      - 49865:25565
+    tty: true
+    stdin_open: true
+    environment:
+      EULA: "TRUE"
+      TYPE: "FORGE"
+      VERSION: "1.19.3"
+      FORGEVERSION: "44.1.23"
+      MEMORY: "16G"
+      PACKWIZ_URL: "https://ellitedev.github.io/titspack/pack.toml"
+      RCON_PASSWORD: "titspack"
+      ENABLE_RCON: "true"
+      ENABLE_ROLLING_LOGS: "true"
+      # Server.properties stuff
+      MOTD: "\\u00A7dTits Pack\\u00A7r \\u00A7oVersion 2.5.2\\u00A7r\\nChangelog\\:\\u00A7o\\u00A7n https\\://link.ellite.dev/titschange"
+      DIFFICULTY: "normal"
+      ICON: "https://ellitedev.github.io/titspack/self-host/tits.png"
+      OVERRIDE_ICON: "true"
+      MAX_PLAYERS: "4"
+      MAX_WORLD_SIZE: "20010"
+      SPAWN_PROTECTION: "0"
+      PVP: "true"
+      ALLOW_FLIGHT: "true"
+      SERVER_NAME: "TitsPack"
+      EXEC_DIRECTLY: "true"
+      STOP_SERVER_ANNOUNCE_DELAY: "30"
+      OVERRIDE_SERVER_PROPERTIES: "true"
+    depends_on:
+      restore-backup:
+        condition: service_completed_successfully
+    volumes:
+      - /opt/TitsPack:/data
+
+  # "init" container for mc to restore the data volume when empty
+  restore-backup:
+    image: itzg/mc-backup
+    restart: "no"
+    entrypoint: restore-tar-backup
+    volumes:
+      - /opt/TitsPack:/data
+      - /opt/TitsPack-BACKUP:/backups:ro
+
+  # container to perform backups
+  backups:
+    image: itzg/mc-backup
+    depends_on:
+      mc:
+        condition: service_healthy
+    environment:
+      BACKUP_INTERVAL: "2h"
+      RCON_HOST: mc
+      INITIAL_DELAY: 0
+      RCON_PASSWORD: "titspack"
+    volumes:
+      - /opt/TitsPack:/data:ro
+      - /opt/TitsPack-BACKUP:/backups
