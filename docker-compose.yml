@@ -7,6 +7,11 @@ services:
       - 49865:25565
     tty: true
     stdin_open: true
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
     environment:
       EULA: "TRUE"
       TYPE: "FORGE"
@@ -17,6 +22,7 @@ services:
       RCON_PASSWORD: "titspack"
       ENABLE_RCON: "true"
       ENABLE_ROLLING_LOGS: "true"
+      USE_AIKAR_FLAGS: "true"
       # Server.properties stuff
       MOTD: "\\u00A7dTits Pack\\u00A7r \\u00A7oVersion 2.5.2\\u00A7r\\nChangelog\\:\\u00A7o\\u00A7n https\\://link.ellite.dev/titschange"
       DIFFICULTY: "normal"
@@ -42,6 +48,11 @@ services:
     image: itzg/mc-backup
     restart: "no"
     entrypoint: restore-tar-backup
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
     volumes:
       - /opt/TitsPack:/data
       - /opt/TitsPack-BACKUP:/backups:ro
@@ -52,6 +63,11 @@ services:
     depends_on:
       mc:
         condition: service_healthy
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
     environment:
       BACKUP_INTERVAL: "2h"
       RCON_HOST: mc
