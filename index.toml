@@ -308,6 +308,11 @@ hash = "82fae45ea254449909803c84284206d4541e49be28bd99c72217dd9749fdf0ea"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "2418396d4ca91c84161692225f9f442eaf80edbc309e2043e3782af94a8f489a"
+metafile = true
+
+[[files]]
 file = "mods/farsight.pw.toml"
 hash = "3aa204d4f4e53d791ae65c35492da1fa52417fd9a855ce46d0b6a221ff364f06"
 metafile = true
@@ -530,11 +535,6 @@ metafile = true
 [[files]]
 file = "mods/optifine.pw.toml"
 hash = "9fc9e591d86ad13b950ebd74ea55bffd859d4444e7c120497d132ca86939856a"
-metafile = true
-
-[[files]]
-file = "mods/pandas-falling-trees.pw.toml"
-hash = "60dde514864bc980599387d998d59f3e431ea5f8fb6213cf8bf68b5c9bd88271"
 metafile = true
 
 [[files]]
