@@ -483,6 +483,11 @@ hash = "9267bc7f996ed925e4088a2e1a3f1c01b47fd3985977cb32ca2b5b968ed043f3"
 metafile = true
 
 [[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "6bb333b2aa6f676b670b1495faffef3f7a1982a60a0259f9a8b0820582cfd1b0"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "4d9139243fa7df7676f91ac5293024e71647259103b911b2583e25fb7acb7a30"
 metafile = true
