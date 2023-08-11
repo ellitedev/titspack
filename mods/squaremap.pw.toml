@@ -1,0 +1,13 @@
+name = "squaremap"
+filename = "squaremap-forge-mc1.19.3-1.1.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PFb7ZqK6/versions/hkfX5NhA/squaremap-forge-mc1.19.3-1.1.11.jar"
+hash-format = "sha1"
+hash = "4e875fb8367e8be1f6bb7f4c64f53aeff2834841"
+
+[update]
+[update.modrinth]
+mod-id = "PFb7ZqK6"
+version = "hkfX5NhA"

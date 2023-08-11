@@ -643,6 +643,11 @@ hash = "61799bc6367ee86a72fe54b131576cbbc6f4dbe1a1a134d561e83b02a72691be"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "d3bb8384958c97eb134505320ad26d66ce808a80f9b97e4838adf656a04bff7e"
+metafile = true
+
+[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "4c112231bdb23cbee616edec43fc7d6b2febfacab514e274025a1826c32dee84"
 metafile = true
