@@ -33,9 +33,24 @@ services:
       EXEC_DIRECTLY: "true"
       STOP_SERVER_ANNOUNCE_DELAY: "30"
       OVERRIDE_SERVER_PROPERTIES: "true"
+    networks:
+      - titspack_default
+      - proxy
     depends_on:
       titspack-restore-backup:
         condition: service_completed_successfully
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.titspack-mc.entrypoints=http"
+      - "traefik.http.routers.titspack-mc.rule=Host(`titspack.ellite.dev`)"
+      - "traefik.http.middlewares.titspack-mc-https-redirect.redirectscheme.scheme=https"
+      - "traefik.http.routers.titspack-mc.middlewares=titspack-mc-https-redirect"
+      - "traefik.http.routers.titspack-mc-secure.entrypoints=https"
+      - "traefik.http.routers.titspack-mc-secure.rule=Host(`titspack.ellite.dev`)"
+      - "traefik.http.routers.titspack-mc-secure.tls=true"
+      - "traefik.http.routers.titspack-mc-secure.service=titspack-mc"
+      - "traefik.http.services.titspack-mc.loadbalancer.server.port=8080"
+      - "traefik.docker.network=proxy"
     volumes:
       - /root/docker-stuff/titspack/data:/data
     
@@ -54,6 +69,8 @@ services:
   titspack-backups:
     image: itzg/mc-backup
     container_name: titspack-backups
+    networks:
+      - titspack_default
     depends_on:
       titspack-mc:
         condition: service_healthy
@@ -66,3 +83,13 @@ services:
     volumes:
       - /root/docker-stuff/titspack/data:/data:ro
       - /root/docker-stuff/titspack/backups:/backups
+
+networks:
+  titspack_default:
+    driver: bridge
+    name: titspack_default
+    external: false
+    attachable: false
+    internal: false
+  proxy:
+    external: true
