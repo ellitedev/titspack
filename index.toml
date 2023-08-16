@@ -538,6 +538,11 @@ hash = "9fc9e591d86ad13b950ebd74ea55bffd859d4444e7c120497d132ca86939856a"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "ae590bafda02f8be5336b0f5cbbe609c4c34a05efb9954f25f7cc57fd265b310"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "a5fd3cb0016f4d4b8c232d97e18e7c229e9887caf36da14aa2923b7089c8a651"
 metafile = true
