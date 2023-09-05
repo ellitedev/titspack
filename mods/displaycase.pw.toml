@@ -1,6 +1,7 @@
 name = "Display Case"
 filename = "Display Case-forge-1.19.3-1.0.4.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/4uWOaapG/Display%20Case-forge-1.19.3-1.0.4.jar"

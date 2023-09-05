@@ -1,13 +1,13 @@
 name = "MCPitanLib"
-filename = "mcpitanlibarch-1.7.2-1.19.3-forge.jar"
+filename = "mcpitanlibarch-1.7.8-1.19.3-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/DYF478F5/mcpitanlibarch-1.7.2-1.19.3-forge.jar"
+url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/rJZVLmSo/mcpitanlibarch-1.7.8-1.19.3-forge.jar"
 hash-format = "sha1"
-hash = "3ac398cbaa365e3163f75e357a43a38a02c1d48b"
+hash = "99493b4d175c33ece637c1e4507154d4fbe7f1db"
 
 [update]
 [update.modrinth]
 mod-id = "uNRoUnGT"
-version = "DYF478F5"
+version = "rJZVLmSo"
